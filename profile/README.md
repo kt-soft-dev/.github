@@ -1,4 +1,4 @@
-🔒 Welcome to the Vortal Coil
+🔒 Welcome to the Vortal Coil and its ktSoftware
 
 We're on a mission to bring privacy and encryption to everyone, making it as easy as sending a tweet! 
 
